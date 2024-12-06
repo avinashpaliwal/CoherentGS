@@ -11,7 +11,7 @@
 > ECCV 2024
 
 [![Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2403.19495)
-[![Project Page](https://img.shields.io/badge/ReShader-Website-blue?logo=googlechrome&logoColor=blue)](https://people.engr.tamu.edu/nimak/Papers/CoherentGS/index.html)
+[![Project Page](https://img.shields.io/badge/CoherentGS-Website-blue?logo=googlechrome&logoColor=blue)](https://people.engr.tamu.edu/nimak/Papers/CoherentGS/index.html)
 [![Video](https://img.shields.io/badge/YouTube-Video-c4302b?logo=youtube&logoColor=red)](https://youtu.be/WxtSM12M81A)
 
 ---------------------------------------------------
