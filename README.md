@@ -35,7 +35,7 @@ conda activate coherentgs
 
 
 ## Data Preparation
-You can download the dataset ...
+You can download the processed [LLFF dataset here](https://drive.google.com/file/d/1VwT8cXjCVVM1Q3UGP6FSZXi5d5JDFZ_p/view?usp=sharing). We will add optimized pointclouds soon.
 
 ## Training
 Training on LLFF dataset with 3 views. You can choose from `[2, 3, 4]` views
