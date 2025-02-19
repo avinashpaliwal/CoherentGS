@@ -35,6 +35,8 @@ conda activate coherentgs
 
 
 ## Data Preparation
+The [data preprocessing scripts](data_preparation_scripts/README.md) have now been added to the repository. You can use these to generate flow and depth for our optimization.
+
 You can download the processed [LLFF dataset here](https://drive.google.com/file/d/1VwT8cXjCVVM1Q3UGP6FSZXi5d5JDFZ_p/view?usp=sharing). We will add optimized pointclouds soon.
 
 ## Training
